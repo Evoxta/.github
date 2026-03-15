@@ -7,6 +7,6 @@ From the initial mockups to the final production-ready site, I work with custome
 - Easy to maintain and edit your site in the future
 - The customer is 100% happy and satisfied with their website!
 
-## Contact me!
-- Via email: ethan@evoxta.com
+## Contact us
+- Via email: ethan@evoxta.com / imogen@evoxta.com
 - Via online call: https://1317.3cx.cloud/ethansebastian (Press CHAT, then click CALL US)
